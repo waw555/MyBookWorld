@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wixnas>
+  <multilingual>
+    <enable>1</enable>
+    <default>en</default>
+    <resource>
+      <de>Deutsch</de>
+      <en>English</en>
+      <es>Espa&#241;ol</es>
+      <fr>Fran&#231;ais</fr>
+      <it>Italiano</it>      
+      <gb>&#31616;&#20307;&#20013;&#25991;</gb>
+      <zh>&#32321;&#39636;&#20013;&#25991;</zh>
+      <ko>&#54620;&#44397;&#50612;</ko>
+      <jp>&#26085;&#26412;&#35486;</jp>
+    </resource>
+  </multilingual>
+  <timezone>US/Pacific</timezone>
+  <epressmode>
+    <enable>1</enable>
+  </epressmode>
+  <ups>
+    <enable>0</enable>
+  </ups>
+  <wireless>
+    <enable>0</enable>
+  </wireless>
+  <pppoe>
+    <enable>0</enable>
+  </pppoe>
+  <widms>
+    <enable>0</enable>
+    <default>0</default>
+  </widms>
+  <photo>
+    <enable>0</enable>
+  </photo>
+  <downloader>
+    <enable>1</enable>
+  </downloader>
+  <itunes>
+    <enable>1</enable>
+  </itunes>
+  <raidtype>1</raidtype>
+</wixnas>
