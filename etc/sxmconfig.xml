@@ -2,8 +2,9 @@
 <wixnas>
   <multilingual>
     <enable>1</enable>
-    <default>en</default>
+    <default>ru</default>
     <resource>
+	  <ru>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</ru>
       <de>Deutsch</de>
       <en>English</en>
       <es>Espa&#241;ol</es>
